@@ -1,0 +1,32 @@
+SNO:,State_Name,District_name,Crop_Year,Season,Crop,Area,Production
+0,Tamil Nadu,Chennai,2020,Kharif,Rice,1254,2000
+1,Delhi,Agra,2018,Kharif,Rice,2,1
+2,Maharastra,Thane,2010,Kharif,Rice,102,321
+3,Andhra Pradesh,Tirupathi,2022,Whole Year,Rice,176,641
+4,Kerala,Trivandrum,2017,Whole Year,Rice,720,165
+5,Andaman and Ncobars,Nicobars,2024,Rabi,Rice,445,678
+6,chandigarh,Chandigarh,2008,Rabi,Rice,778,337
+7,Haryana,Kaithal,2006,Rabi,Rice,543,887
+8,Karnataka,Bangalore,2021,Whole Year,Rice,1286,986
+9,West bengal,Purulia,2020,Whole Year,Rice,556,223
+10,Tamil Nadu,Theni,2019,Summer,Rice,1728,945
+11,Andhra Pradesh,Guntur,2004,Summer,Rice,728,664
+12,Delhi,Meerut,2005,Summer,Rice,567,727
+13,Delhi,Bharatpur,2015,Whole Year,Rice,256,998
+14,Tamil Nadu,Dindigul,2016,Whole Year,Rice,954,546
+15,Tamil Nadu,Madurai,2014,Whole Year,Rice,645,885
+16,Karnataka,Bidar,2012,Summer,Rice,356,829
+17,Karnataka,Udupi,2006,Whole Year,Rice,1738,983
+18,Andaman and Ncobars,Nicobars,2007,Whole Year,Rice,487,774
+19,Karnataka,Kolar,2009,Summer,Rice,823,228
+20,Karnataka,Yadgir,2010,Summer,Rice,889,1258
+21,Tamil Nadu,Vellore,2000,Summer,Rice,677,953
+22,Tamil Nadu,Erode,2013,Whole Year,Rice,556,776
+23,Tamil Nadu,Salem,2012,Whole Year,Rice,886,563
+24,Tamil Nadu,Karur,2009,Kharif,Rice,1718,188
+25,Andhra Pradesh,Chittoor,2004,Kharif,Rice,352,2345
+26,Andhra Pradesh,Kadapa,2007,Kharif,Rice,646,243
+27,Andhra Pradesh,Nellore,2003,Kharif,Rice,1347,884
+28,Maharastra,Pune,2002,Rabi,Rice,1415,778
+29,Maharastra,Dhule,2000,Rabi,Rice,2425,858
+30,Maharastra,Latur,2020,Rabi,Rice,228,123
